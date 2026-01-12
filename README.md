@@ -6,7 +6,7 @@ This project focuses on analyzing a supermarket sales dataset to uncover pattern
 
 The goal of the project is to apply exploratory data analysis (EDA) techniques to derive meaningful business insights from transactional sales data.
 
-
+##
 🎯 Objectives
 
 Explore the structure and quality of the dataset
