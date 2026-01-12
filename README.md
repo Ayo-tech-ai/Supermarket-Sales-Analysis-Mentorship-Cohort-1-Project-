@@ -1,4 +1,4 @@
-Supermarket Sales Analysis (Mentorship Cohort 1 Project)
+## **Supermarket Sales Analysis (Mentorship Cohort 1 Project)**
 
 📌 Project Overview
 
