@@ -1,5 +1,5 @@
 ## **Supermarket Sales Analysis (Mentorship Cohort 1 Project)**
-
+##
 📌 Project Overview
 
 This project focuses on analyzing a supermarket sales dataset to uncover patterns and factors that influence total sales performance. The analysis was carried out using Python in a Google Colab environment as part of the 3MTT/Deeptech Cohort 1 Mentorship programme.
@@ -25,7 +25,7 @@ Visualize trends and correlations in the data
 
 Draw data-driven conclusions from observed patterns
 
-
+##
 📊 Dataset
 
 Name: SuperMarket Analysis Dataset
@@ -43,7 +43,7 @@ Missing values
 Basic statistical properties
 
 
-
+##
 🛠️ Tools & Libraries Used
 
 Python
@@ -54,7 +54,7 @@ Matplotlib – data visualization
 
 Seaborn – statistical visualizations
 
-
+##
 🔍 Methodology
 
 Data Loading
@@ -79,7 +79,7 @@ Insights & Interpretation
 
 Interpreted findings to understand which factors significantly affect total sales.
 
-
+##
 📈 Key Insights
 
 Total sales are strongly influenced by quantity sold.
@@ -89,21 +89,21 @@ Some categorical features (such as product line and city) show minimal influence
 A clear positive correlation exists between quantity and sales, confirming expected business logic.
 
 
-
+##
 📌 Project Status
 
 ✔ Completed
 This project focuses on exploratory analysis and insight generation rather than predictive modeling.
 
 
-
+##
 👤 Author
 
 Ayoola Mujib Ayodele
 FE/23/89361170
 Data Science and Machine Learning
 
-
+##
 💡 Notes
 
 This project demonstrates foundational data analysis skills, including data cleaning, visualization, and interpretation.
